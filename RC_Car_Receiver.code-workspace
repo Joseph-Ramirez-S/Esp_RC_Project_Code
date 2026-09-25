@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": ".git"
+        },
+        {
+            "path": ".vscode"
+        },
+        {
+            "path": "common"
+        },
+        {
+            "path": "RC_Car_Receiver"
+        },
+        {
+            "path": "Xbox_USB_HID_Communication"
+        }
+    ]
+}
